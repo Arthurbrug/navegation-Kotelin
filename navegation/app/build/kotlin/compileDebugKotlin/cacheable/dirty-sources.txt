@@ -1,0 +1,8 @@
+C:\navegation\app\src\main\java\com\br\arthurbrug\navegation\screens\MenuScreen.kt
+C:\navegation\app\src\main\java\com\br\arthurbrug\navegation\screens\PedidosScreen.kt
+C:\navegation\app\src\main\java\com\br\arthurbrug\navegation\ui\theme\Type.kt
+C:\navegation\app\src\main\java\com\br\arthurbrug\navegation\screens\PerfilScreen.kt
+C:\navegation\app\src\main\java\com\br\arthurbrug\navegation\MainActivity.kt
+C:\navegation\app\src\main\java\com\br\arthurbrug\navegation\ui\theme\Color.kt
+C:\navegation\app\src\main\java\com\br\arthurbrug\navegation\screens\LoginScreen.kt
+C:\navegation\app\src\main\java\com\br\arthurbrug\navegation\ui\theme\Theme.kt
