@@ -43,7 +43,7 @@ fun MenuScreen(modifier: Modifier = Modifier, navController: NavController) {
                 .align(Alignment.Center)
         ) {
             Button(
-                onClick = { navController.navigate("perfil") },
+                onClick = { navController.navigate("perfil/Fulano de Tal") },
                 colors = ButtonDefaults.buttonColors(Color.White),
                 modifier = Modifier.size(width = 200.dp, height = 48.dp)
             ) {
